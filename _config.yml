@@ -2,34 +2,38 @@ title: Snow Hydrology
 lang: en
 description: CEWA 568
 
-remote_theme: clearpathrobotics/jekyll-rtd-theme
+theme: just-the-docs
 
-addons_branch: true
-edit: true
+url: https://spestana.github.io/snow-hydrology
 
-copyright:
-  revision: true
-
-addons:
-  - github
-  - i18n
-  - plugins
-  - analytics
+#remote_theme: clearpathrobotics/jekyll-rtd-theme
+#
+#addons_branch: true
+#edit: true
+#
+#copyright:
+#  revision: true
+#
+#addons:
+#  - github
+#  - i18n
+#  - plugins
+#  - analytics
 
 # sort
-readme_index:
-  with_frontmatter: true
+#readme_index:
+#  with_frontmatter: true
 
-sass:
-  style: compressed
+#sass:
+#  style: compressed
 
-exclude:
-  - Makefile
-  - Gemfile
-  - Gemfile.lock
+#exclude:
+#  - Makefile
+#  - Gemfile
+#  - Gemfile.lock
 
 # optional plugins
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
+#plugins:
+#  - jemoji
+#  - jekyll-avatar
+#  - jekyll-mentions
